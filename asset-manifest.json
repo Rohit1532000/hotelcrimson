@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Rohit1532000/hotelcrimson/static/css/main.e20effa8.css",
+    "main.js": "/Rohit1532000/hotelcrimson/static/js/main.08d8b374.js",
+    "static/js/453.e4f80538.chunk.js": "/Rohit1532000/hotelcrimson/static/js/453.e4f80538.chunk.js",
+    "static/media/aa.png": "/Rohit1532000/hotelcrimson/static/media/aa.04539e1763b0c80c6cd4.png",
+    "static/media/img1.jpg": "/Rohit1532000/hotelcrimson/static/media/img1.0f9f6c530eab1aa75575.jpg",
+    "static/media/the-best-way-to-find.jpg": "/Rohit1532000/hotelcrimson/static/media/the-best-way-to-find.fbdff85d9c159cc682df.jpg",
+    "static/media/getlstd-property-photo.jpg": "/Rohit1532000/hotelcrimson/static/media/getlstd-property-photo.5c63928295f89a10e1d0.jpg",
+    "static/media/343621523.jpg": "/Rohit1532000/hotelcrimson/static/media/343621523.d2941c871f96fe4e7d33.jpg",
+    "static/media/Great_47A0992.jpg": "/Rohit1532000/hotelcrimson/static/media/Great_47A0992.d7626f830f4af778cb54.jpg",
+    "static/media/pashupatinath-hero.jpg": "/Rohit1532000/hotelcrimson/static/media/pashupatinath-hero.ab8d1bcd9f5115b3cbc1.jpg",
+    "static/media/citron-hotel.jpg": "/Rohit1532000/hotelcrimson/static/media/citron-hotel.e83205ae7b69c07170c0.jpg",
+    "static/media/logo.svg": "/Rohit1532000/hotelcrimson/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Rohit1532000/hotelcrimson/index.html",
+    "main.e20effa8.css.map": "/Rohit1532000/hotelcrimson/static/css/main.e20effa8.css.map",
+    "main.08d8b374.js.map": "/Rohit1532000/hotelcrimson/static/js/main.08d8b374.js.map",
+    "453.e4f80538.chunk.js.map": "/Rohit1532000/hotelcrimson/static/js/453.e4f80538.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20effa8.css",
+    "static/js/main.08d8b374.js"
+  ]
+}
